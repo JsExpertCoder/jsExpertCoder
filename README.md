@@ -9,7 +9,7 @@ I also have knowledge on Backend development with **Laravel**.
 ## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orodrigogo/)](https://www.linkedin.com/in/f%C3%A1bio-nicolau-97bab92b3/) 
-[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:rodrigorgtic@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:misterjs247000@gmail.com)](misterjs247000@gmail.com)
 
 <!--
 **JsExpertCoder/jsExpertCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
