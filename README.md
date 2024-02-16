@@ -1,7 +1,7 @@
 ### Hi, I'm Fábio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
 I'm a Software Engineer. My specialty is developing **Android and iOS Mobile Apps with React Native**. <br>
-I also have knowledge on Backend development with **Laravel**.
+I also have knowledge in Backend development with **Laravel**.
 
  🔭 I’m currently working at [Tecnologias Arnaldo](https://tecnologiasarnaldo.com/)
  <br><br>
