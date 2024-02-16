@@ -4,6 +4,13 @@ I'm a Software Engineer. My specialty is developing **Android and iOS Mobile App
 I also have knowledge on Backend development with **Laravel**.
 
  🔭 I’m currently working at [Tecnologias Arnaldo](https://tecnologiasarnaldo.com/)
+ <br><br>
+
+## Contact
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orodrigogo/)](https://www.linkedin.com/in/orodrigogo/) 
+[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:rodrigorgtic@gmail.com)
+
 <!--
 **JsExpertCoder/jsExpertCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
