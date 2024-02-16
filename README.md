@@ -3,7 +3,7 @@
 I'm a Software Engineer. My specialty is developing **Android and iOS Mobile Apps with React Native**. <br>
 I also have knowledge on Backend development with **Laravel**.
 
- 🔭 I’m currently working at [Tecnologias Arnaldo](https://tecnologiasarnaldo.com/)
+ 🔭 I’m currently working at [Tecnologias Arnaldo](<a href="https://tecnologiasarnaldo.com/" target="_blank"></a>)
 <!--
 **JsExpertCoder/jsExpertCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
