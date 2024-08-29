@@ -7,6 +7,7 @@ I also have knowledge in Backend development with **Laravel**.
  <br><br>
 
  [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JsExpertCoder&show_icons=true&theme=dracula)](https://github.com/JsExpertCoder)
+ <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsExpertCoder&exclude_repo=github-readme-stats,JsExpertCoder_icons=true&theme=dracula)-->
 
 ## Contact
 
