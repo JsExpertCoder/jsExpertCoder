@@ -6,9 +6,9 @@ I also have knowledge in Backend development with **Laravel**.
  🔭 I’m currently working at [Tecnologias Arnaldo](https://tecnologiasarnaldo.com/)
  <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JsExpertCoder&show_icons=true&theme=dark&locale=en&layout=compact" alt="JsExpertCoder" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JsExpertCoder&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8&exclude_repo=frontbox,chocolife,championsbarbershop,xPlace" alt="JsExpertCoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JsExpertCoder&show_icons=true&theme=dark&locale=en" alt="JsExpertCoder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JsExpertCoder&show_icons=true&theme=dark&locale=en&text_bold=true" alt="JsExpertCoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JsExpertCoder&theme=dark" alt="JsExpertCoder"/></p>
 
