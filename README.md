@@ -4,8 +4,59 @@ I'm a Software Engineer. My specialty is developing **Android and iOS Mobile App
 I also have knowledge in Backend development with **Laravel**.
 
  🔭 I’m currently working at [Tecnologias Arnaldo](https://tecnologiasarnaldo.com/)
- <br><br>
+ <br>
+ 📚 I completed the 42 School Piscine<br>
 
+## This is me as a code
+```c
+#include <unistd.h>
+#include <stdlib.h>
+
+void	ft_strcpy(char *dest, char *src)
+{
+	while (*src)
+		*dest++ = *src++;
+	*dest = 0;
+}
+
+int	main(void)
+{
+	char	*str;
+	int		slogan_size;
+
+	slogan_size = 20;
+	str = (char *)malloc(sizeof(char) * (slogan_size + 1));
+	if (!str)
+	{
+		write(1, "Memory allocation failed\n", 25);
+		exit(0);
+	}
+	ft_strcpy(str, "I will never give up");
+	write(1, str, slogan_size);
+	free(str);
+	return (0);
+}
+```
+
+## These are the languages and tools I've studied so far
+![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
+![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=c%2B%2B&logoColor=9445FC)
+![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
+![Github](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=4C8CD5)
+![NGINX](https://img.shields.io/badge/nginx-0D1117.svg?style=for-the-badge&logo=nginx&logoColor=green)
+![PHP](https://img.shields.io/badge/php-0D1117.svg?style=for-the-badge&logo=php&logoColor=9445FC)
+![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=3893F5)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117.svg?style=for-the-badge&logo=laravel&logoColor=#f54d3a)
+![Tailwind-css](https://img.shields.io/badge/tailwindcss-0D1117.svg?style=for-the-badge&logo=tailwindcss&logoColor=3893F5)
+![ReactJs](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=4C8CD5)
+![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=#ff4c1e)
+![React Native](https://img.shields.io/badge/RN-0D1117.svg?style=for-the-badge&logo=react&logoColor=4C8CD5)
+![Linux](https://img.shields.io/badge/linux-0D1117.svg?style=for-the-badge&logo=linux&logoColor=#f1c604)
+![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
+ <br>
+## These are my Github´s stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JsExpertCoder&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8&exclude_repo=frontbox,chocolife,championsbarbershop,xPlace" alt="JsExpertCoder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JsExpertCoder&show_icons=true&theme=dark&locale=en&text_bold=true" alt="JsExpertCoder" /></p>
