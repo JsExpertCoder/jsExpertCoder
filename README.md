@@ -3,9 +3,7 @@
 I'm a Software Engineer. My specialty is developing **Android and iOS Mobile Apps with React Native**. <br>
 I also have knowledge in Backend development with **Laravel**.
 
- 🔭 I’m currently working at [Tecnologias Arnaldo](https://tecnologiasarnaldo.com/)
- <br>
- 📚 I completed the 42 School Piscine<br>
+📚 I completed the 42 School Piscine<br>
 
 ## This is me as a code
 ```c
