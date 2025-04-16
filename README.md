@@ -55,7 +55,7 @@ int	main(void)
 ![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
  <br>
 ## These are my Github´s stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JsExpertCoder&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8&exclude_repo=frontbox,chocolife,championsbarbershop,xPlace" alt="JsExpertCoder" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JsExpertCoder&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8&exclude_repo=frontbox,chocolife,championsbarbershop,xPlace&hide=html" alt="JsExpertCoder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JsExpertCoder&show_icons=true&theme=dark&locale=en&text_bold=true" alt="JsExpertCoder" /></p>
 
