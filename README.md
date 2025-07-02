@@ -3,7 +3,7 @@
 I'm a Software Engineer. My specialty is developing **Android and iOS Mobile Apps with React Native**. <br>
 I also have knowledge in Backend development with **Laravel**.
 
-📚 I completed the 42 School Piscine<br>
+📚 I am currently taking the Common Core (42-cursus) at School 42<br>
 
 ## This is me as a code
 ```c
